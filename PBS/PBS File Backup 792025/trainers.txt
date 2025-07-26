@@ -1,0 +1,25 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
+#-------------------------------
+[IDOL, OSTER PROJECT]
+LoseText = Test.
+Pokemon = GEODUDE, 12
+Pokemon = ONIX, 14
+BGM_SONG = VOC@LOID IN LOVE - Oster Project
